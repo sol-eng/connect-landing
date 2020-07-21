@@ -1,0 +1,13 @@
+name: top_10_shiny_apps
+title: Top 10 Shiny Apps
+username: josiah
+account: josiah
+server: colorado.rstudio.com
+hostUrl: https://colorado.rstudio.com/rsc/__api__
+appId: 7154
+bundleId: 39455
+url: https://colorado.rstudio.com/rsc/top-10-shiny/
+when: 1595274760.94124
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Renviron|most-used-shiny.R
